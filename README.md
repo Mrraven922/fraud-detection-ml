@@ -217,6 +217,10 @@ streamlit run app.py
 
 Engineering Best Practices Demonstrated
 
+*output*
+
+<img width="1893" height="952" alt="output" src="https://github.com/user-attachments/assets/c3e22b6f-3d83-4121-a794-8a6fa8b863f4" />
+
 
 End-to-end reproducibility
 
